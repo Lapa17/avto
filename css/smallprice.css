@@ -1,0 +1,35 @@
+.container.price{
+    display: flex;
+}
+.price .col-lg-3{
+    padding: 0;
+    margin: 10px;  
+    overflow: hidden;
+}
+a.card-footer{
+    background: #D82132;
+}
+.badge.badge-red{
+    background: #D82132;
+    position: absolute;
+    color: #fff;
+    top: -10px;
+    right: -50px;
+    z-index: 4;
+    transform: rotate(45deg) translate(0, -25%);
+    padding: 60px 50px 15px 50px;
+        opacity: 0.9;
+}
+.allert{
+    margin: 20px 10px;
+    color: black;
+}
+@media all and (max-width:770px){
+    .allert{
+    margin: 20px 0;
+}
+    .container.price{
+        display: block;
+    }  
+}
+}

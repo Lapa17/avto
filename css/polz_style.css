@@ -1,0 +1,29 @@
+.slider-container {
+  width: 100%;
+  background: #fff;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+}
+.slider-container #rangeSlider {
+  background: #fff;
+  height: 8px;
+}
+.slider-container #rangeSlider .ui-widget-header {
+  background: #D82132;
+}
+.slider-container #rangeSlider .ui-slider-handle {
+  outline: none;
+  border: 8px solid #fff;
+  width: 8px;
+  height: 8px;
+  top: -5px;
+  box-shadow: 0px 0px 1px 1px rgba(0,0,0,0.2);
+}
+.ui-corner-all, .ui-corner-bottom, .ui-corner-right, .ui-corner-br {
+	border-radius: 0;
+}
+.ui-widget-content{
+	border:none;
+}
+label.price{
+	margin-bottom: 10px;
+}

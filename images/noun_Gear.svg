@@ -1,0 +1,16 @@
+<svg width="50" height="50" xmlns="http://www.w3.org/2000/svg">
+ <title>a2</title>
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="52" width="52" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g stroke="null" id="svg_1">
+   <path stroke="null" id="svg_2" d="m22.18693,9.639181c-1.042553,-0.925532 -1.62766,-2.255319 -1.62766,-3.648936c-0.010638,-2.648936 2.12766,-4.808511 4.776596,-4.819149c2.648936,-0.010638 4.808511,2.12766 4.819149,4.776596c0,1.404255 -0.595745,2.744681 -1.62766,3.691489c-0.159574,0.138298 -0.255319,0.329787 -0.276596,0.531915l-0.308511,2.585106l-5.148936,0l-0.308511,-2.585106c-0.042553,-0.202128 -0.138298,-0.393617 -0.297872,-0.531915zm2.106383,4.819149l2.12766,0l0,20l-2.12766,0l0,-20zm-9.148936,24.223405c0,-1.37234 1.074468,-2.521277 2.43617,-2.521277l15.553192,0c1.37234,0 2.43617,1.159574 2.43617,2.521277l0,1.946809l-20.425532,0l0,-1.946809zm25.212766,8.43617l-30.000001,0l0,-2.319149c0.010638,-1.37234 1.138298,-2.468085 2.5,-2.468085l24.989362,0c1.37234,-0.010638 2.489362,1.095745 2.5,2.468085l0,2.319149l0.010638,0z"/>
+  </g>
+  <text id="svg_3" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif" font-weight="bold" font-size="5px" fill="#000000" y="527" x="0">Created by Paisley</text>
+  <text id="svg_4" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif" font-weight="bold" font-size="5px" fill="#000000" y="532" x="0">from the Noun Project</text>
+ </g>
+</svg>

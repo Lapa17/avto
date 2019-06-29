@@ -1,0 +1,59 @@
+input[type=button] {
+    border: 0px;
+    padding: 4px 10px;
+    vertical-align: middle;
+    background: #D82132;
+    color: #fff;
+}
+input[type=text]{
+    height: 35px;
+}
+.col-sm-4{
+    padding-top: 20px;
+}
+input{
+    float: right;
+}
+iframe{
+    margin-top: 20px;
+}
+.card.col-lg-12{
+    overflow: hidden;
+    padding: 0;
+    margin-bottom: 15px;
+}
+.container-fluid h3{
+    margin-top:40px;
+}
+.second-block-title{
+    margin-top: -30px;
+}
+button.btn.btn-link.collapsed{
+    color: #444;
+    font-weight: 600;
+}
+button.btn.btn-link{
+    color: #444;
+    font-weight: 600;
+}
+button.btn.btn-link.collapsed:focus{
+    text-decoration: none;
+}
+.accordion .card .card-header{
+    background: none;
+}
+.accordion .card .card-body{
+    background: none;
+}
+.blocks .container-fluid>div{
+    margin-left: 10px;
+}
+@media all and (max-width:570px){
+    input[type=button]{
+            padding: 7px 10px;
+            width: 30%;
+    }
+    input[type=text]{
+    width: 70%;
+}
+}
